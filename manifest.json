@@ -1,0 +1,27 @@
+{
+    "name": "悦读工作台",
+    "short_name": "悦读",
+    "description": "个人阅读助手 - 书籍管理、读书笔记、每日打卡、数据统计",
+    "id": "./",
+    "start_url": "./",
+    "scope": "./",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#f5f6fa",
+    "theme_color": "#4A90D9",
+    "lang": "zh-CN",
+    "icons": [
+        {
+            "src": "icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
